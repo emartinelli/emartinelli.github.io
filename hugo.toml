@@ -58,10 +58,6 @@ readOtherPosts = "Leia outros posts"
 identifier = "blog"
 name = "Blog"
 url = "/posts"
-[[languages.pt-br.menu.main]]
-identifier = "about"
-name = "Sobre"
-url = "/about"
 
 [params.logo]
 logoText = "Elvio Martinelli"
