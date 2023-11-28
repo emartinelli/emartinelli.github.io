@@ -1,5 +1,5 @@
 copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-baseurl = "https://emartinelli.github.io/"
+baseurl = "https://blog.elvio-martinelli.com/"
 title = "Elvio Martinelli"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -20,7 +20,7 @@ enableSharingButtons = false
 # Show a global language switcher in the navigation bar
 enableGlobalLanguageMenu = true
 
-# Metadata mostly used in document's head
+# Metadata is mostly used in the document's head
 description = "Elvio Martinelli tech blog"
 keywords = "tech, blog, software"
 images = [""]
